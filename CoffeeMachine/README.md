@@ -13,6 +13,7 @@ In this project, you will work on programming a coffee machine simulator. The ma
 
 
 ### ***Example***
+
 #
 Your coffee machine should have the same initial resources as in the example (400 ml of water, 540 ml of milk, 120 g of coffee beans, 9 disposable cups, $550 in cash).\ 
 The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
