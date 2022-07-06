@@ -27,7 +27,8 @@ The coffee machine has:
 $550 of money
 
 Write action (buy, fill, take, remaining, exit):
-\>\ buy
+
+\> buy
 
 What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:
 > 2
