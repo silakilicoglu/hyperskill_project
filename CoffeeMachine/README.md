@@ -1,6 +1,6 @@
 # COFFEE MACHINE
 
-This [project](https://hyperskill.org/projects/68) is part of the Python Core and Introductory Machine Learning in Python track from Hyperskill
+This [project](https://hyperskill.org/projects/68) is part of the Python Core and Introductory Machine Learning in Python track from Hyperskill.
 
 ## Learning Outcomes
 
