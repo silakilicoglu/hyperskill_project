@@ -16,7 +16,6 @@ Your coffee machine should have the same initial resources as in the example (40
 The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
 
 Write action (buy, fill, take, remaining, exit):
-
 (>) remaining
 
 The coffee machine has:
