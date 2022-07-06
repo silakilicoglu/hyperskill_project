@@ -17,7 +17,7 @@ The greater-than symbol followed by a space (> ) represents the user input. Note
 
 Write action (buy, fill, take, remaining, exit):
 
-(> ) remaining
+\> remaining
 
 The coffee machine has:
 400 ml of water
@@ -31,11 +31,13 @@ Write action (buy, fill, take, remaining, exit):
 \> buy
 
 What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:
-> 2
+
+\> 2
 I have enough resources, making you a coffee!
 
 Write action (buy, fill, take, remaining, exit):
-> remaining
+
+\> remaining
 
 The coffee machine has:
 50 ml of water
@@ -45,26 +47,34 @@ The coffee machine has:
 $557 of money
 
 Write action (buy, fill, take, remaining, exit):
-> buy
+
+\> buy
 
 What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:
-> 2
+
+\> 2
 Sorry, not enough water!
 
 Write action (buy, fill, take, remaining, exit):
-> fill
+
+\> fill
 
 Write how many ml of water you want to add:
-> 1000
+
+\> 1000
 Write how many ml of milk you want to add:
-> 0
+
+\> 0
 Write how many grams of coffee beans you want to add:
-> 0
+
+\> 0
 Write how many disposable cups you want to add:
-> 0
+
+\> 0
 
 Write action (buy, fill, take, remaining, exit):
-> remaining
+
+\> remaining
 
 The coffee machine has:
 1050 ml of water
@@ -74,14 +84,17 @@ The coffee machine has:
 $557 of money
 
 Write action (buy, fill, take, remaining, exit):
-> buy
+
+\> buy
 
 What do you want to buy? 1 - espresso, 2 - latte, 3 - cappuccino, back - to main menu:
-> 2
+
+\> 2
 I have enough resources, making you a coffee!
 
 Write action (buy, fill, take, remaining, exit):
-> remaining
+
+\> remaining
 
 The coffee machine has:
 700 ml of water
@@ -91,12 +104,14 @@ The coffee machine has:
 $564 of money
 
 Write action (buy, fill, take, remaining, exit):
-> take
+
+\> take
 
 I gave you $564
 
 Write action (buy, fill, take, remaining, exit):
-> remaining
+
+\> remaining
 
 The coffee machine has:
 700 ml of water
@@ -106,4 +121,5 @@ The coffee machine has:
 $0 of money
 
 Write action (buy, fill, take, remaining, exit):
-> exit
+
+\> exit
