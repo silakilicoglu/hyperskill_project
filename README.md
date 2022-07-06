@@ -6,6 +6,6 @@ Education is project-based. By choosing a project in a software language of your
 
 ## Completed Projects
 
-* [Simple Chatty Bot](https://hyperskill.org/projects/97) (Python Core Track)
+* [Simple Chatty Bot](https://hyperskill.org/projects/97) (Python Core Track & Introductory Machine Learning in Python Track)
 * [Coffee Machine](https://hyperskill.org/projects/68) (Python Core Track & Introductory Machine Learning in Python Track)
 * [Data Analysis For Hospitals](https://hyperskill.org/projects/152) (Introductory Machine Learning in Python Track)
