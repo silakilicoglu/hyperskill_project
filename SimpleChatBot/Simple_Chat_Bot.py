@@ -2,17 +2,27 @@
 
 # function for introducing itself in the consol
 def greet(bot_name, birth_year):
+    """
+    Introducing itself in the consol.
+
+    Parameters:
+        bot_name(str): your bot's name
+        birht_year(int): your bot's birth year
+
+    """
     print('Hello! My name is ' + bot_name + '.')
-    print('I was created in ' + birth_year + '.')
+    print('I was created in ' + str(birth_year) + '.')
 
 # function for introducing yourself to the bot.
 def remind_name():
+    """Introducing yourself to the bot."""
     print('Please, remind me your name.')
     name = input()
     print('What a great name you have, ' + name + '!')
 
 # function for making the assistant guess your age.
 def guess_age():
+    """Making the assistant guess your age."""
     print('Let me guess your age.')
     print('Enter remainders of dividing your age by 3, 5 and 7.')
 
@@ -48,7 +58,7 @@ def test():
 def end():
     print('Congratulations, have a nice day!')
 
-greet('Aid', '2020')  # change it as you need
+greet('Aid', 2020)  # change it as you need
 remind_name()
 guess_age()
 count()
