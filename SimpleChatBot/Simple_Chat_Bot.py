@@ -56,7 +56,8 @@ def test():
     print('Completed, have a nice day!')
 
 def end():
-    print('Congratulations, have a nice day!')
+    """Show an ending message."""
+    print("Congratulations, have a nice day!") 
 
 greet('Aid', 2020)  # change it as you need
 remind_name()
